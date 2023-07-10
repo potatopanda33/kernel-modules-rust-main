@@ -1,0 +1,15 @@
+.vscode/
+.vscode-ctags
+*.cmd
+*.o
+*.symvers
+*.ko
+*.mod
+*.mod.c
+*.rmeta
+*.order
+*.d
+NOTES.md
+.env
+rust-project.json
+
